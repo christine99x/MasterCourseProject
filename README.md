@@ -1,4 +1,4 @@
-# Lists of Course Projects at Leiden University
+# Lists of Course Projects
 The course projects that Xinyue participated in for master's courses at LIACS.
 
 * [Introduction to Deep Learning (IDL)](#introduction-to-deep-learning-idl)
