@@ -1,5 +1,5 @@
 # MasterCourseProject
-The course projects done by Xinyue for master's classes at LIACS.
+The course projects that Xinyue participated in for master's courses at LIACS.
 
 * [Introduction to Deep Learning (IDL)](#introduction-to-deep-learning-idl)
 * [Social Network Analysis for Computer Scientists (SNACS)](#social-network-analysis-for-computer-scientists-snacs)
