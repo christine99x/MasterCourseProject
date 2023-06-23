@@ -1,7 +1,7 @@
 # MasterCourseProject
 The course projects done by Xinyue for master's classes at LIACS.
 
-* [Introduction to Deep Learning (IDL)](#1.1)
+* [Introduction to Deep Learning (IDL)](#introduction-to-deep-learning-idl)
 * [Social Network Analysis for Computer Scientists (SNACS)](#1.2)
 * [Advances in Data Mining (AiDM)](#1.3)
 * [Text Mining (TM)](#1.4)
