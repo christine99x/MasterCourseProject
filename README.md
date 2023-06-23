@@ -1,12 +1,12 @@
 # MasterCourseProject
 The course projects done by Xinyue for master's classes at LIACS.
 
-* [Introduction to Deep Learning (IDL)](#1)
-* [Social Network Analysis for Computer Scientists (SNACS)](#2)
-* [Advances in Data Mining (AiDM)](#3)
-* [Text Mining (TM)](#4)
-* [Evolutionary Algorithm (EA)](#5)
-* [Audio Processing and Indexing (API)](#6)
+* [Introduction to Deep Learning (IDL)](#1.1)
+* [Social Network Analysis for Computer Scientists (SNACS)](#1.2)
+* [Advances in Data Mining (AiDM)](#1.3)
+* [Text Mining (TM)](#1.4)
+* [Evolutionary Algorithm (EA)](#1.5)
+* [Audio Processing and Indexing (API)](#1.6)
 
 ## Introduction to Deep Learning (IDL)
 There are four assignments in this section, and all of them were done with Yuan Lin. 
