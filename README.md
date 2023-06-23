@@ -2,7 +2,7 @@
 The course projects done by Xinyue for master's classes at LIACS.
 
 * [Introduction to Deep Learning (IDL)](#introduction-to-deep-learning-idl)
-* [Social Network Analysis for Computer Scientists (SNACS)](#1.2)
+* [Social Network Analysis for Computer Scientists (SNACS)](#social-network-analysis-for-computer-scientists)
 * [Advances in Data Mining (AiDM)](#1.3)
 * [Text Mining (TM)](#1.4)
 * [Evolutionary Algorithm (EA)](#1.5)
