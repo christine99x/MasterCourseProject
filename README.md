@@ -1,5 +1,7 @@
 # MasterCourseProject
-Course projects for master's classes at LIACS.
+The course projects done by Xinyue for master's classes at LIACS.
+
+[1. Introduction to Deep Learning (IDL)](#1.1)
 
 ## Introduction to Deep Learning (IDL)
 There are four assignments in this section, and all of them were done with Yuan Lin. 
