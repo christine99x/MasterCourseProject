@@ -11,6 +11,8 @@ The course projects that Xinyue participated in for master's courses at LIACS.
 
 ## Introduction to Deep Learning (IDL)
 There are four assignments in this section, and all of them were done with Yuan Lin. 
+* Assignment 0: designed to familiarize us with Python and enhance our understanding of commonly used concepts in machine learning, such as  overfitting, MSE. Tech stack: scikit-learn.
+* Assignment 1: a digit recognition task and an XOR problem. In this task, we learned several dimensionality reduction techniques, implemented a one-layer neural network and a 2x2 neural network. Tech stack: scikit-learn and matplotlib.
 ## Social Network Analysis for Computer Scientists (SNACS)
 There are two personal assignments and a course project in this section. The course project was completed with Yuan Lin.
 ## Advances in Data Mining (AiDM)
