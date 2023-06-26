@@ -4,7 +4,7 @@ The course projects that Xinyue participated in for master's courses at LIACS.
 * [Introduction to Deep Learning (IDL)](#introduction-to-deep-learning-idl)
 * [Social Network Analysis for Computer Scientists (SNACS)](#social-network-analysis-for-computer-scientists-snacs)
 * [Advances in Data Mining (AiDM)](#advances-in-data-mining-aidm)
-* [Text Mining (TM)](#text-minig-tm)
+* [Text Mining (TM)](#text-mining-tm)
 * [Evolutionary Algorithm (EA)](#evolutionary-algorithm-ea)
 * [Audio Processing and Indexing (API)](#audio-processing-and-indexing-api)
 * [Reinforcement Learning (RL)](#reinforcement-learning-rl)
